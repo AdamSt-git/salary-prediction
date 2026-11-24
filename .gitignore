@@ -1,0 +1,8 @@
+# Kaggle data stays local
+*.csv
+
+# System and editor files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.code-workspace
